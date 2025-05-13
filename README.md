@@ -89,8 +89,8 @@ I worked with raw data and spent time filtering out noise, fixing data types, an
 If you want to run this locally:
 
 
-  git clone https://github.com/your-username/geolocation-data-analysis.git
-  cd geolocation-data-analysis
-  pip install -r requirements.txt
+  - git clone https://github.com/your-username/geolocation-data-analysis.git
+  - cd geolocation-data-analysis
+  - pip install -r requirements.txt
 
 
